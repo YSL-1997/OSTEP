@@ -16,7 +16,12 @@ Sample code: hello_world.c
 int
 main(int argc, char* argv[])
 {
+  // some comments...
   printf("Hello World.\n");
   return 0;
 }
+
+/*
+  Some other explanations...
+*/
 ```
