@@ -21,7 +21,7 @@ main(int argc, char* argv[])
   char* str = argv[1];
 
   while(1){
-    sleep(1); // in OSTEP, it uses Spin(1)
+    sleep(1); // in OSTEP, it uses Spin(1), #include "common.h"
     printf("%s\n", str);
   }
   
