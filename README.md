@@ -6,7 +6,7 @@ I made slight modification to some of the codes so that it could pass compilatio
 Sample code: hello_world.c
 ```
 /*
-  page number
+  page number on OSTEP
   $ gcc -o hello_world hello_world.c -Wall -Werror
   $ ./hello_world
 */
